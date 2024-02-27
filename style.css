@@ -48,6 +48,9 @@ body{
     font-size: 1.4rem;
     color: #999;
 }
+.line__break{
+    opacity: 0.3;
+}
 .blog--card__tag{
     font-size: 1.2rem;
     color: #999;
